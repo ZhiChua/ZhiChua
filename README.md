@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @ZhiChua
-- 📚 I am a third year engineering student at University of Waterloo
-- 👀 I’m interested in extracting actionable information from data
+# 👋 Hi, I’m @ZhiChua
+
+I'm an third year engineering student at University of Waterloo, and will be working as a Software Developer in the data engineering department @ Alcumus.
+
+- 👀 I’m interested in finding trends and extracting actionable information from data
+- 🌱 I’m currently learning web scraping and ML
 - 💬 Ask me about my wide range of hobbies
 - 📫 How to reach me: zschua@uwaterloo.ca
 
