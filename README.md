@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @ZhiChua
 
-I'm an third year engineering student at University of Waterloo, and will be working as a Software Developer in the data engineering department @ Alcumus.
+I'm an third year engineering student at University of Waterloo, and am looking for a co-op this coming Summer 2022
 
-- 👀 I’m interested in finding trends and extracting actionable information from data
-- 🌱 I’m currently learning web scraping and ML
+- 👀 I’m interested in Machine Learning and ways to transform data
+- 🌱 I’m currently learning web scraping and fullstack development
 - 💬 Ask me about my wide range of hobbies
 - 📫 How to reach me: zschua@uwaterloo.ca
 
