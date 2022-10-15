@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ZhiChua
 
-I'm an third year engineering student at University of Waterloo, and am looking for a co-op this coming Summer 2022
+I'm an third year engineering student at University of Waterloo, and am looking for a co-op this coming Winter 2023
 
 - 👀 I’m interested in Machine Learning and ways to transform data
 - 🌱 I’m currently learning web scraping and fullstack development
