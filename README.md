@@ -5,7 +5,7 @@ I'm an engineering new grad from the University of Waterloo looking for full tim
 - 👀 I’m interested in Machine Learning and data
 - 🌱 I’m currently developing an application that has the potential to be used by all UFC fans
 - 💬 Ask me about my wide range of hobbies
-- 📫 How to reach me: zschua@uwaterloo.ca
+- 📫 How to reach me: zhi.chua14@gmail.com
 
 
 <!---
